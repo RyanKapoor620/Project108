@@ -1,0 +1,25 @@
+body{
+    background-color:lightgray ;
+    font-family: 'Special Elite', cursive;
+}
+
+#header_div{
+    background-color: darkgrey;
+    padding: 15px;
+    color: white;
+    letter-spacing: 2px;
+}
+
+button{
+    width: 15%;
+    letter-spacing: 2px;
+}
+
+.footer_div{
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    color:gray;
+    background-color: whitesmoke;
+}
